@@ -19,6 +19,8 @@ wordsArray.each do |word|
     word.capitalize!
 end
 
+
+# Instead of just ".sort" the array
 while wordsArray.length > 0
     max = wordsArray[0]
     for word in wordsArray

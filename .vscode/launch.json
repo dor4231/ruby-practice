@@ -6,7 +6,7 @@
             "type": "Ruby",
             "request": "launch",
             "cwd": "${workspaceRoot}",
-            "program": "${workspaceRoot}/main.rb"
+            "program": "${workspaceRoot}/english_number.rb"
         },
         {
             "name": "Listen for rdebug-ide",
